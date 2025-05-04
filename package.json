@@ -19,7 +19,7 @@
 		"moment-timezone": "^0.5.46",
 		"node-cache": "^5.1.2",
 		"pm2": "5.4.3",
-		"sequelize": "^6.37.5",
+		"sequelize": "^6.37.7",
 		"sharp": "^0.33.5",
 		"simple-git": "^3.27.0",
 		"sqlite3": "^5.1.7",
